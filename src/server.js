@@ -11,6 +11,8 @@ app.get("/", (req, res) => {
     res.render("index");
 });
 
+console.log("Código Safado")
+
 const chave = "AKIA5L3DP4PBTAABXFNO"
 const chave_secreta = "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"
 
